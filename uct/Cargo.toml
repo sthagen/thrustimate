@@ -1,0 +1,18 @@
+[package]
+authors = ["Stefan Hagen"]
+categories = ["command-line-utilities"]
+description = """
+Well, deeds first, then words ...
+"""
+edition = "2018"
+homepage = "https://github.com/sthagen/thrustimate/"
+keywords = ["estimate", "throughput", "plan"]
+license = "MIT"
+name = "uct"
+publish = false
+readme = "README.md"
+repository = "https://github.com/sthagen/thrustimate/"
+version = "2021.10.10"
+
+[dependencies]
+rand = "0.8.4"
